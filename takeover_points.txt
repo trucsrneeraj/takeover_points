@@ -16,3 +16,4 @@ Third party services in place.
 =>  How we make the project secutity wise
 =>  Where are the logical part of project
 =>  How manage validataion part of project 
+=>  How to test dummy payment transactions 
