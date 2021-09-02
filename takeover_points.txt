@@ -1,0 +1,18 @@
+Question Regarding project handover:
+
+System architecture?
+Database table structure?
+Code repository management.
+Third party services in place.
+
+=>  Overview of a project using fronted with differenet roles 
+=>  Show a database with relationship 
+=>  What is encryption technique we used 
+=>  What type of payment gateway we used and it functionaliy
+=>  How we manage folder structure code and coding standards
+=>  Any customized helper , core file Or libraries
+=>  For crud operation which template tool we are using 
+=>  Where are the css, js and image upload file also
+=>  How we make the project secutity wise
+=>  Where are the logical part of project
+=>  How manage validataion part of project 
