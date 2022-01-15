@@ -6,7 +6,7 @@ Code repository management.
 Third party services in place.
 
 =>  Overview of a project using fronted with differenet roles 
-=>  Show a database with relationship 
+=>  Show a database with relationship and explain it shortly
 =>  What is encryption technique we used 
 =>  What type of payment gateway we used and it functionaliy
 =>  How we manage folder structure code and coding standards
@@ -17,3 +17,10 @@ Third party services in place.
 =>  Where are the logical part of project
 =>  How manage validataion part of project 
 =>  How to test dummy payment transactions 
+=>  How does any specific module works?
+=>  how does the data flows in ?
+=>  which are the important queries fired (are they optimised)?
+=>  Explain the data flow of all the modules step by step, along with the table names.
+=>  How you manage beta and production server.
+=>  Coding part of differenct roles like funraisers , motivator , implementor etc
+=>  For image compression are you using any techniques.
