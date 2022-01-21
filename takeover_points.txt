@@ -1,26 +1,26 @@
-Question Regarding project handover:
+Point to be discussed at the time of TakeOver :
 
-System architecture?
-Database table structure?
-Code repository management.
-Third party services in place.
-
-=>  Overview of a project using fronted with differenet roles 
-=>  Show a database with relationship and explain it shortly
-=>  What is encryption technique we used 
-=>  What type of payment gateway we used and it functionaliy
-=>  How we manage folder structure code and coding standards
-=>  Any customized helper , core file Or libraries
-=>  For crud operation which template tool we are using 
-=>  Where are the css, js and image upload file also
-=>  How we make the project secutity wise
-=>  Where are the logical part of project
-=>  How manage validataion part of project 
-=>  How to test dummy payment transactions 
-=>  How does any specific module works?
-=>  how does the data flows in ?
-=>  which are the important queries fired (are they optimised)?
-=>  Explain the data flow of all the modules step by step, along with the table names.
-=>  How you manage beta and production server.
-=>  Coding part of differenct roles like funraisers , motivator , implementor etc
-=>  For image compression are you using any techniques.
+1)  Explain system architecture?
+2)  Explain database table structure with their relations? 
+3)  Are you using any repository system to manage the project?
+3)  What are the third-party service you are using like APIs, payment gateway etc?
+4)  Explain the Overview of a project using frontend with different roles?
+5)  Explain the database with a relationship with project flow (Eg. In case of login on which table data is saved )?
+6)  What is the encryption technique that you used for security purposes in the user databases or payment info?
+7)  What types of payment gateway do we use and with their functionality?
+8)  How do we manage code structure and coding standards?
+9)  Have you created and customized Helper, core files, or libraries or installed from outside with reason?
+10) For crud operation are we using any template or any single format?
+11) Provide the location of these files: CSS, js, project images which are uploaded by the user 
+12) How we maintain the project security-wise like security in URL, password, confidential data
+13) Where are the logical part of the project
+14) How do we set the validation in a project like strict password, form fields, etc?
+15) How to test dummy payment transactions on a live server?
+16) How does any specific module works like routing?
+17) How does data flow in?
+18) How do you make the query-like chaining or query method and are they optimized?
+19) How do you manage beta and production servers?
+20) Explain the different parts of the roles code like a fundraiser, motivator, implementor, etc?
+21) Are you using any technique for image compression?
+21) In which module/part most of the complex elements/codes are involved?
+22) Any module which has a dependency with another module?
